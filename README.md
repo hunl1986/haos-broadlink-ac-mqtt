@@ -5,4 +5,4 @@
 三、获取设备的 IP 和 MAC 地址<br>
 四、配置AC MQTT proxy for home assistant<br>
   1、AC MQTT proxy for home assistant——配置——mqtt——把user后面值改为HA用户名，passwd后面值改为HA密码<br>
-  2、devices按格式设置为需要连接的机器配置，可增加多个<br>
+  2、devices按格式设置为需要连接的机器，可以增加多个
